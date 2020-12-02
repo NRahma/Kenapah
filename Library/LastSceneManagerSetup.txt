@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/MenuUtama.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Organik.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Anorganik.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/B3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
